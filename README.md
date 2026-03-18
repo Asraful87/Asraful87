@@ -1,3 +1,4 @@
+![Banner](./github-header-banner.png)
 # Hi, I'm Ashraful Alam
 
 Diploma student in Computer Science & Technology from Bangladesh, focused on building practical software solutions and preparing for higher studies abroad.
