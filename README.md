@@ -1,5 +1,39 @@
-# 💫 About Me:
- Hi, I'm Ashraful Alam<br><br>Diploma student in computer science & technology from Bangladesh.  <br>I am building practical software projects in web development, backend systems, and automation.<br><br> Current Focus<br>- Full-stack web development<br>- Backend APIs<br>- Problem solving and clean code<br>- Building a strong portfolio for higher studies abroad<br><br> Tech Stack<br>- JavaScript<br>- TypeScript<br>- Python<br>- FastAPI<br>- Next.js<br>- Git & GitHub<br><br> Featured Projects<br>- Portfolio Website<br>- File Sharing App<br>- Discord Bot<br>- Backend API Projects<br><br> Goals for 2026<br>- Build 3 polished portfolio projects<br>- Improve GitHub quality and documentation<br>- Prepare for international university applications<br><br> Contact<br>- Email: asraful.academic@gmail.com<br>- LinkedIn: www.linkedin.com/in/ashraful87
+# Hi, I'm Ashraful Alam
+
+Diploma student in Computer Science & Technology from Bangladesh, focused on building practical software solutions and preparing for higher studies abroad.
+
+## What I Do
+- Build full-stack web applications and backend systems
+- Develop APIs using modern frameworks
+- Work on real-world projects to improve problem-solving and engineering skills
+
+## Current Focus
+- Full-stack development (Next.js, TypeScript)
+- Backend systems (FastAPI, Node.js)
+- Database design (PostgreSQL, Supabase)
+- Writing clean, scalable, and maintainable code
+
+## Tech Stack
+- Languages: JavaScript, TypeScript, Python  
+- Frontend: Next.js, React, Tailwind CSS  
+- Backend: FastAPI, Node.js, Express  
+- Database: PostgreSQL, Supabase  
+- Tools: Git, GitHub, Postman, Docker (learning)
+
+## Featured Work
+- Portfolio Website – Personal website showcasing projects and skills  
+- Full-Stack Applications – Real-world apps with authentication and database integration  
+- Backend APIs – Scalable REST APIs with proper structure and validation  
+- Automation & Bots – Discord bots and utility tools  
+
+## Goals
+- Build high-quality, production-ready projects  
+- Strengthen problem-solving and system design skills  
+- Secure admission for international higher studies in Computer Science  
+
+## Contact
+- Email: your-email
+- GitHub: https://github.com/Asraful87
 
 
 ## 🌐 Socials:
