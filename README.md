@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ashraful Alam
 
-<!--
-**Asraful87/Asraful87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma student in Computer Science & Technology from Bangladesh.  
+I am building practical software projects in web development, backend systems, and automation.
 
-Here are some ideas to get you started:
+## Current Focus
+- Full-stack web development
+- Backend APIs
+- Problem solving and clean code
+- Building a strong portfolio for higher studies abroad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- JavaScript
+- TypeScript
+- Python
+- FastAPI
+- Next.js
+- Git & GitHub
+
+## Featured Projects
+- Portfolio Website
+- File Sharing App
+- Discord Bot
+- Backend API Projects
+
+## Goals for 2026
+- Build 3 polished portfolio projects
+- Improve GitHub quality and documentation
+- Prepare for international university applications
+
+## Contact
+- Email: your-email-here
+- LinkedIn: your-linkedin-here
